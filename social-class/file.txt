@@ -1,2 +1,4 @@
-hello
-this is new file
+hello 
+this is the first line of new code
+it is a virtual machine 
+
